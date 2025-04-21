@@ -62,7 +62,7 @@ This project implements a microservice-based authentication system for a Virtual
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [<your-github-repository-url>](https://github.com/Nagathejas-M-S/Virtual-Labs-auth-mfa.git)
+    git clone https://github.com/Nagathejas-M-S/Virtual-Labs-auth-mfa.git
     cd Virtual-Labs-auth-mfa
     ```
 
