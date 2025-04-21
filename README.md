@@ -10,6 +10,7 @@ This project implements a microservice-based authentication system for a Virtual
 
 ## Project Structure
 
+```
 .
 ├── auth-backend/      # Node.js (Express) backend for core authentication (uses Supabase)
 │   ├── Dockerfile
@@ -27,7 +28,7 @@ This project implements a microservice-based authentication system for a Virtual
 ├── .env.example       # Example environment variables for docker-compose
 ├── .gitignore         # Specifies intentionally untracked files
 └── README.md          # This file
-
+```
 
 ## Technologies Used
 
