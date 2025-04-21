@@ -5,6 +5,7 @@
 This project implements a microservice-based authentication system for a Virtual Labs platform. It includes a core authentication service (backend + frontend) and integrates with a separate Multi-Factor Authentication (MFA) service developed by Vanshika Ashok Jadhav[Team 9]'s team, named [MFA Microservice Name]. The entire system is designed to run using Docker containers managed by Docker Compose.
 
 **Developed By:** Nagathejas M S [Team 15]
+
 **MFA Service By:** Vanshika Ashok Jadhav[Team 9]
 
 ## Project Structure
