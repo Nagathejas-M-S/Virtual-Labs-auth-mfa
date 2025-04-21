@@ -104,7 +104,7 @@ This will start the `auth-backend`, `auth-frontend`, and `mfa` services in detac
 
 * **Auth Backend:**
     * `POST /api/auth/login`: Verifies user password against Supabase custom user table.
-* **MFA Service ([MFA Microservice Name]):**
+* **MFA Service:**
     * `POST /generate-otp`: Sends an OTP to the provided email. Requires `{"email": "..."}`.
     * `POST /verify-otp`: Verifies the submitted OTP for the given email against Supabase. Requires `{"email": "...", "otp": "..."}`.
 
